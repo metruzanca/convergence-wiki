@@ -17,6 +17,10 @@
     {
       "folder": "items",
       "template": "templates/item.md"
+    },
+    {
+      "folder": "patch-notes",
+      "template": "templates/patch-notes.md"
     }
   ],
   "syntax_highlighting": true,

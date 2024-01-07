@@ -1,5 +1,6 @@
 [
   "alx-folder-note",
   "folder-note-core",
-  "templater-obsidian"
+  "templater-obsidian",
+  "url-into-selection"
 ]
