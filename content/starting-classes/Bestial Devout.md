@@ -5,5 +5,6 @@
 ### Weapons
 
 ### Off-Hand tool
+- [[Cinquedea]]
 
 ### Runes

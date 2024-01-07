@@ -21,6 +21,14 @@
     {
       "folder": "patch-notes",
       "template": "templates/patch-notes.md"
+    },
+    {
+      "folder": "starting-classes",
+      "template": "templates/class.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,

@@ -1,4 +1,5 @@
 Spawn location is the [[Artist's Shack]].
+
 ## Path of the Aberrant Heretic
 
 ### Armor

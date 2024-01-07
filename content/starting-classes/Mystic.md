@@ -1,3 +1,5 @@
+![[Mystic Spawn Location.png]]
+
 ## Path of the
 
 ### Armor
@@ -6,4 +8,4 @@
 
 ### Off-Hand tool
 
-### Runes
+## Runes

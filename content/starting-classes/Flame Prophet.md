@@ -5,7 +5,7 @@
 ### Weapons for the Flame Prophet
 - [[Fell Flame Sword]]
 - [[Axe of Fell Prophecy]]
-- [[Vanilla Weapons Changes#Cranial Vessel Candelstand]]
+- [[Cranial Vessel Candelstand]]
 
 ### Off-Hand tool
 - [[Smoldering Shield]]
