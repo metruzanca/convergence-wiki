@@ -17,12 +17,14 @@ Catalysts:
 
 ### Off-Hand tool
 
-## Runes
-### Faint Rune of Necromancy
-
-Found in the shack north-west of the Church of Pilgramage.
-
-- Fia's Mist
-- Tibia Summons
-- Tibia's Conversion
-- Blighted Armament
+### Runes
+- Tier 1: Found in the shack north-west of the Church of Pilgramage.
+	- Fia's Mist
+	- Tibia Summons
+	- Tibia's Conversion
+	- Blighted Armament
+- Tier 4: Found in [[Giant's Mountaintop Catacombs]]
+	- Ghostflame Cannon
+	- Wave of Corruption
+	- Rancorstorm
+	- Soul Steal
