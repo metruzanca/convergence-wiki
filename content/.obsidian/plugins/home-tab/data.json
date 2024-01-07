@@ -1,0 +1,53 @@
+{
+  "logoType": "imagePath",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "assets/logo.png",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Convergence Wiki",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "npc/Nomadic Merchants/Weeping Peninsula.md",
+      "timestamp": 1704614801316
+    },
+    {
+      "filepath": "npc/Nomadic Merchants/Castle Morne Rampart.md",
+      "timestamp": 1704614779135
+    },
+    {
+      "filepath": "assets/Castle-Morne-Rampart-merchant-location.png",
+      "timestamp": 1704614769079
+    },
+    {
+      "filepath": "assets/Weeping-Peninsula-merchant-inventory.png",
+      "timestamp": 1704614733193
+    },
+    {
+      "filepath": "items/weapons/Vanilla Weapons Changes.md",
+      "timestamp": 1704614390392
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false
+}
