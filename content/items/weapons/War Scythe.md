@@ -3,4 +3,4 @@ title:
 ---
 
 ## Acquisition
-Graveyard North of Stormveil Gilded
+Graveyard North of Stormveil

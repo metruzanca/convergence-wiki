@@ -1,5 +1,3 @@
-
-
 ## Path of the Dreadnought
 
 The Dreadnought favors heavy armor and primarily uses Strength.
@@ -16,7 +14,7 @@ The Dreadnought favors heavy armor and primarily uses Strength.
 - [[Sigur's Greatmace]]
 - [[Grafted Blade Greatsword]]
 - [[War Scythe]]
-- [[Quarterstaff]]
+- [[Gilded Quarterstaff]]
 - [[Red Branch Shortbow]]
 - [[Long Bow]]
 - [[Golem's Greatbow]]
