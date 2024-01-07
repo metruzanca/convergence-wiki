@@ -3,6 +3,7 @@ title: Starting Classes
 aliases:
   - Starting Classes
 ---
+
 1. [[Vanguard]] | Focus: Str/Dex - Noncaster, Offense
 2. [[Retainer]] | Focus: Str/Dex - Noncaster, Defense
 3. [[Marksman]] | Focus: Str/Dex - Noncaster, Long Range

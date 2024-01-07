@@ -1,7 +1,7 @@
 ## Path of the Flame Prophet
 
 ### Armor
-- 
+-
 
 ### Weapons for the Flame Prophet
 - [[Fell Flame Sword]]
