@@ -1,6 +1,7 @@
 ---
 title: ER Convergence mod Wiki
 ---
+![[banner-1900x1000.png]]
 
 This is the unofficial Wiki for the [Elden Ring Convergence Mod](https://www.nexusmods.com/eldenring/mods/3419). This wiki is unaffiliated with the team that created the mod and is entirely a fan project. You can learn more about this project [[about|Here]].
 
