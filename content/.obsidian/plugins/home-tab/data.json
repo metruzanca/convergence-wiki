@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "npc/Nomadic Merchants/Weeping Peninsula.md",
-      "timestamp": 1704614801316
+      "filepath": "starting-classes/Flame Prophet.md",
+      "timestamp": 1704619810087
     },
     {
-      "filepath": "npc/Nomadic Merchants/Castle Morne Rampart.md",
-      "timestamp": 1704614779135
+      "filepath": "starting-classes/Dreadnought.md",
+      "timestamp": 1704619806758
     },
     {
-      "filepath": "assets/Castle-Morne-Rampart-merchant-location.png",
-      "timestamp": 1704614769079
+      "filepath": "starting-classes/Aberrant Heretic.md",
+      "timestamp": 1704619724907
     },
     {
-      "filepath": "assets/Weeping-Peninsula-merchant-inventory.png",
-      "timestamp": 1704614733193
+      "filepath": "locations/Artist's Shack.md",
+      "timestamp": 1704619722556
     },
     {
-      "filepath": "items/weapons/Vanilla Weapons Changes.md",
-      "timestamp": 1704614390392
+      "filepath": "templates/class.md",
+      "timestamp": 1704619690140
     }
   ],
   "starredFileStore": [],

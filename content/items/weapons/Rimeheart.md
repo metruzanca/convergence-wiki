@@ -6,7 +6,7 @@ title:
 
 ## Notes
 - Gains unique moveset when two handing it.
-- Causes #frostsbite build up (89).
+- Causes frostsbite build up (89).
 ## Acquisition
 
 Boss drop from [[Borealis Ice Fog Dragon]]
