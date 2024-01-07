@@ -16,4 +16,3 @@ title: Installation
 ## A note about save files:
 
 The mod uses a separate save file location so your vanilla characters will not be available by default. You can remove this feature by either moving or deleting the `eldenring_alt_saves.dll` from the `ConvergenceER` folder. However, if you play the mod with vanilla characters, it will cause lots of bugs and general instability.
-

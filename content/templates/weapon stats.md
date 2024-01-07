@@ -1,5 +1,6 @@
 
 ## Attack Power
+
 | Type | Damage |
 | ---- | ---- |
 | Physical |  |
@@ -9,7 +10,8 @@
 | Holy |  |
 | Critical | 120 |
 
-## Guarded 
+## Guarded
+
 |  | |
 | --- | --- |
 |  |  |
