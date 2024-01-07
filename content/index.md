@@ -1,31 +1,31 @@
 ---
-title: Unofficial & Open-Source Convergence mod Wiki
+title: ER Convergence mod Wiki
 ---
 
-## Intro
+This is the unofficial Wiki for the [Elden Ring Convergence Mod](https://www.nexusmods.com/eldenring/mods/3419). This wiki is unaffiliated with the team that created the mod and is entirely a fan project. You can learn more about this project [[about|Here]].
 
-As of 2024-01-06, the [Convergence Mod](https://www.nexusmods.com/eldenring/mods/3419) doesn't have a proper wiki yet. This project aims to fix that, by pooling notes together from:
+## Quickstart
 
-- The [official Discord server](https://discord.com/invite/zNRSMsUSGM)
-- Taking notes from In-Game
+- [[starting-classes/index|Starting Classes]]
+- [[items/index|All Items]]
+- [[items/weapons/index|Weapons]]
+- [[items/spells/index|Spells]]
+- [[items/armor/index|Armor Sets]]
+- [[items/equipment/index|Equipment & Consumables]]
+- or just use the search to find what you want.
 
-## Get started
+You can view the latest patch-notes here: [[patch-notes/index|Patch Notes]]
 
-Check out some pages like: [[starting-classes/index|Starting Classes]], [[items/index|All Items]], [[items/weapons/index|Weapons]], [[items/spells/index|Spells]], [[items/armor/index|Armor Sets]], [[items/equipment/index|Equipment & Consumables]] or just use the search to find what you want.
+## Mod Features
 
-Also, this wiki has a mirror for the [[patch-notes/index|Patch Notes]]
-
-## Want to Contribute?
-
-This project is currently only being worked on by myself as I play thru the mod a few times. If a page for an item you were looking for isn't available yet, please consider contributing it! All contributions welcome.
-
-Contributors:
-
-- Metruzanca: [Twitter](https://twitter.com/metruzanca), [Github](https://github.com/metruzanca)
-
-<!-- Swing by [The github repository](https://github.com/metruzanca/convergence-wiki) and create an issue to discuss how you'd like to contribute. -->
-
-If you'd like to contribute to the project. Heres a few ways you can reach out:
-
-- Discord DM, username: `metruzanca`
-- Create a post in the [Discussions page](https://github.com/metruzanca/convergence-wiki/discussions) on the github repository or create an issue.
+- **Class Based Progression**: Each class now has its own unique progression path through the Lands Between.
+- **New Classes**: 27 new classes, each with their own unique identity and playstyle.
+- **Unique Starting Locations**: Each class now has its own starting location in the world.
+- **Boss Resurrection**: Relive the epic battles of your favorite Remembrance bosses.
+- **Remnant Crafting**: Craft talismans and physick tears through the grace menu using new crafting materials found in the world.
+- **The Erdtree Network**: Go almost anywhere in the world by defeating the local Erdtree bosses and teleporting to your desired location.
+- **Better Crafting**: No need to go around and fetch cookbooks or containers, every recipe is unlocked right from the start. You can also craft during combat.
+- **Dungeon Overhauls**: Many dungeons have been overhauled, tweaked or expanded with more planned for the future.
+- **New Equipment**: Hone your arsenal with new weapons for each class and a huge amount of new spells to cast.
+- **New Bosses**: Test your new found power against our new and improved foes.
+- **Many tweaks and changes**: Listing them all here would make this very bloated, we recommend reading the patch notes linked at the bottom of this page (1.0 specifically)
