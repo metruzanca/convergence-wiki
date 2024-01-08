@@ -4,6 +4,25 @@ title: Path of the Fundamentalist
 
 The Fundamentalist primarily uses Faith with Holy damage.
 
+## Starting Gear
+
+
+| Level |  |
+| ---- | ---- |
+| Vigor |  |
+| Mind |  |
+| Endurance |  |
+| Strength |  |
+| Dexterity |  |
+| Intelligence |  |
+| Faith |  |
+| Arcane |  |
+
+The CLASS_NAME spawns LOCATION.
+
+> [!info]- Map Location
+> EMBEDED_IMAGE
+
 ## Armor
 
 ## Weapons
@@ -19,10 +38,16 @@ The Fundamentalist primarily uses Faith with Holy damage.
 - Halo Scythe - Stillwater Cave
 - Golden Order Greatsword - Cave of the Forlorn
 
-## Off-Hand tool
+## Catalysts and off-hand tool
+- Erdsteel Dagger - Obtained from Kenneth after taking back [[Fort Haight]].
 
 ## Runes
-- faint: Third church of Marika
+- Tier 1: Third church of Marika
+	- Rejection
+	- Rune Shards
+	- Sacred Ground
+	- Blessing of Grace
+	- Immutable Shield
 - Tier 2: Found in the chest on top of [[Fort Haight]]
 	- Urgent Heal
 	- Discus of Light
@@ -32,3 +57,7 @@ The Fundamentalist primarily uses Faith with Holy damage.
 - glowing: stormveil castle where the godskin seal was
 - shining: Leyndell
 - radiant: cave of the Forlorn
+
+> [!info]- Rune Locations
+> Faint Rune of Order
+> ![[Rune of Order Faint.png]]
