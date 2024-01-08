@@ -1,12 +1,31 @@
-## Path of the Dreadnought
+---
+title: Path of the Dreadnought
+---
 
 The Dreadnought favors heavy armor and primarily uses Strength.
 
-### Armor
+## Starting Gear
 
+| Level |  |
+| ---- | ---- |
+| Vigor |  |
+| Mind |  |
+| Endurance |  |
+| Strength |  |
+| Dexterity |  |
+| Intelligence |  |
+| Faith |  |
+| Arcane |  |
+
+The Dreadnought spawns north-west of _Liurnia Highway South_ Grace.
+
+> [!info]- Map Location
+> ![[Dreadnought location.png]]
+
+## Armor
 - [[Bull-Goat Armor]]
 - [[Lionel's Armor]]
-### Weapons for the Dreadnought
+## Weapons
 
 - [[Yura's Kanabo]]
 - [[Leaden Maul]]
