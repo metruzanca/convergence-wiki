@@ -1,3 +1,23 @@
+## Alternate Start
+
+When you spawn, you start in the **Chapel of Anticipation** as usual but you'll be immediatly be able to pickup:
+
+- Tarnished's Wizend Finger
+- Whetstone Knife
+- Flask of Wondrous Physick
+- Crafting Kit
+
+Upon exiting the Chapel via the "Wall of Light", you will be teleported to your starting class' spawn location.
+
+### Crafting
+
+You'll have access to all crafting recipes from the start, and can craft mid-combat.
+
+You'll also automatically pickup materials when you approach them.
+
+
+## Starting Classes
+
 All classes have a new spawn location. In the location, the player can pick up two notes:
 
 - Path of the <class_name>
