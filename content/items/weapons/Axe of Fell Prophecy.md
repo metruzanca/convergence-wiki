@@ -7,4 +7,3 @@ title:
 ## Acquisition
 
 Found in the first room in [[Giant-Conquering Hero's Grave]]
-

@@ -1,6 +1,5 @@
-
-
 ![[Liurnia of the lakes Merchant inventory.png]]
+
 ## Inventory
 - 1x Lantern
 - 5x [[Smithing Stone]]
@@ -13,4 +12,3 @@
 
 > [!info]- Map Location
 > ![[Liurnia of the lakes Merchant location.png]]
-

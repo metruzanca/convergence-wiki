@@ -8,4 +8,3 @@ title:
 > [!info]- Can be hard to find, some screenshots
 > ![[flamemace location 1.png]]
 > ![[flamemace location 2.png]]
-

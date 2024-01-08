@@ -10,6 +10,7 @@ aliases:
 Allows crafting Talismans for #TODO
 
 Theres 5 tiers of Relics
+
 - Tier 1: Faint
 - Tier 2: Shimmering
 - Tier 3: Glowing

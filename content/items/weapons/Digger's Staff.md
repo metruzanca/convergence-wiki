@@ -3,4 +3,4 @@ title:
 ---
 
 ## Acquisition
-- Purchased from the 
+- Purchased from the

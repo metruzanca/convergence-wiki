@@ -3,10 +3,11 @@ aliases:
   - gravity
 title: Path of the Starcaller
 ---
+
 DESCRIPTION_FROM_PATH_NOTE
 
 ## Starting Gear
-- 
+-
 
 %% Levels placed below the starting gear to make the social preview better. %%
 
@@ -31,6 +32,7 @@ The CLASS_NAME spawns LOCATION.
 ## Weapons
 
 %% Some classes don't have these %%
+
 ## Catalysts and off-hand tool
 
 ## Runes
@@ -38,5 +40,5 @@ The CLASS_NAME spawns LOCATION.
 - shimmering: Earthbore cave
 - glowing: Royal grave evergoal
 - Tier 4: Boss drop from [[War-Dead Catacombs]]
-	- 
+	-
 - radiant: yelough anix tunnel

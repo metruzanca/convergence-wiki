@@ -29,6 +29,7 @@ The CLASS_NAME spawns LOCATION.
 ## Weapons
 
 %% Some classes don't have these %%
+
 ## Catalysts and off-hand tool
 - Tier 2: [[Frenzied Flame Seal]]
 ## Runes

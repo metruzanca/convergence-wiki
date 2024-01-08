@@ -52,14 +52,5 @@
       ],
       "key": "P"
     }
-  ],
-  "darlal-switcher-plus:switcher-plus:open-commands": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
   ]
 }
