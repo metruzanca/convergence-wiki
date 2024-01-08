@@ -2,7 +2,7 @@ All edits must be done with Obsidian, as obsidian will automatically update link
 
 Templates in `templates` set the standard for how pages should look. This is to maintain consistency.
 
-
+[DRAFT]
 ## Setup
 
 ### Making local changes
