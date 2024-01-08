@@ -1,24 +1,46 @@
-## Path of the Dragon Cultist
+---
+title: Path of the Dragon Cultist
+---
 
 The Dragon Cultist primarily uses Faith with Lightning damage.
 
-### Armor
-- Leyndell Knight Set - Found on an invisible scarab in Leyndell
-- Malformed Dragon Set - Found after defeating the Draconic Tree Sentinel in Farum Azula
-### Weapons for the Dragon Cultist
-- Draconic Epitaph - Altus Plateau near Rampartside Path
-- Godwyn's Cragblades - Leyndell Glaive of the Ancients - Found after defeating Seera
-- Dragon Greatclaw - Found after defeating Draconic Tree Sentinel
-- Gravelstone Arcblades - Wyndham Catacombs
-- Dragon King's Cragblade - Purchased after defeating Placidusax
-- Bolt of Gransax - Leyndell
-- Veteran's Prosthesis - Fouund after defeating Niall
+## Starting Gear
+- [[Draconic Epitaph]]
+%% Levels placed below the starting gear to make the social preview better. %%
 
-### Catalyst and off-hand tool
-- Dragon Cult Seal - Leyndell
-- Dragon Cult Crest - Found after defeating a knight in East Liurnia
+| Level |  |
+| ---- | ---- |
+| Vigor |  |
+| Mind |  |
+| Endurance |  |
+| Strength |  |
+| Dexterity |  |
+| Intelligence |  |
+| Faith |  |
+| Arcane |  |
 
-### Runes
+The Dragon Cultist spawns LOCATION.
+
+> [!info]- Map Location
+> EMBEDED_IMAGE
+
+## Armor
+- [[Leyndell Knight Set]]
+- [[Malformed Dragon Set]]
+## Weapons
+- [[Godwyn's Cragblades]]
+- [[Glaive of the Ancients]]
+- [[Dragon Greatclaw]]
+- [[Gravelstone Arcblades]]
+- [[Dragon King's Cragblade]]
+- [[Bolt of Gransax]]
+- [[Veteran's Prosthesis]]
+
+## Catalysts and off-hand tool
+
+- [[Dragon Cult Seal]]
+- [[Dragon Cult Crest]]
+## Runes
 - Tier 1: south of the burned ruins in Limgrave
 - Tier 2: Morne's tunnel boss
 - Tier 3: Altus draconic tree sentinel
