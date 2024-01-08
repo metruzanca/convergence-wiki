@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Unofficial Convergence Wiki",
+    pageTitle: "Convergence",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

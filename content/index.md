@@ -1,5 +1,5 @@
 ---
-title: ER Convergence mod Wiki
+title: Unofficial Elden Ring Convergence mod Wiki
 ---
 
 ![[banner-1900x1000.png]]
