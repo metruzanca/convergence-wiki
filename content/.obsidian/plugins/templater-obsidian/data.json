@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "items",
+      "folder": "items/weapons",
       "template": "templates/item.md"
     },
     {
@@ -27,8 +27,8 @@
       "template": "templates/class.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "items/armor",
+      "template": "templates/item.md"
     }
   ],
   "syntax_highlighting": true,

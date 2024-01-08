@@ -23,8 +23,11 @@ Catalysts:
 	- Tibia Summons
 	- Tibia's Conversion
 	- Blighted Armament
+- Tier 2: tombsward catacombs
+- Tier 3: black knife catacombs
 - Tier 4: Found in [[Giant's Mountaintop Catacombs]]
 	- Ghostflame Cannon
 	- Wave of Corruption
 	- Rancorstorm
 	- Soul Steal
+- Tier 5: deeproot depths

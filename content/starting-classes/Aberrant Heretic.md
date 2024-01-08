@@ -9,11 +9,11 @@ Spawn location is the [[Artist's Shack]].
 ### Off-Hand tool
 
 ### Runes
-- Tier 1
+- Tier 1: Artist's shack east Liurnia
 	- Body of Briar
 	- Briars of Sin
 	- Briar-Wrapped Armament
-- Tier 2
-- Tier 3
-- Tier 4
-- Tier 5
+- Tier 2: Forlorn hound's evergoal
+- Tier 3: unsightly catacombs
+- Tier 4: shaded castle
+- Tier 5: Elphael

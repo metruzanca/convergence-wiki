@@ -12,7 +12,11 @@
 - [[Smoldering Shield]]
 
 ### Runes
-- Tier 5 found in [[Giant-Conquering Hero's Grave]]
+- Tier 1: smouldering church
+- Tier 2: minor erdtree catacombs
+- Tier 3: Malefactor's evergoal
+- Tier 4: guardian's garrison
+- Tier 5: found in [[Giant-Conquering Hero's Grave]]
 	- Incinerate
 	- Cyclopean Prophecy
 	- Anger of the Fell God
