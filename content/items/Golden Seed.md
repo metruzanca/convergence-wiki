@@ -1,0 +1,2 @@
+- One can be found as a Reward for killing the Ulcerated Tree Spirit in [[War-Dead Catacombs]]
+- 

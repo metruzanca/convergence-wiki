@@ -1,7 +1,18 @@
 ---
 title: Path of the Marksman
 ---
+
 The Marksman favors light to medium armor and primarily uses Strength and Dexterity.
+
+## Starting Gear
+- Composite Bow
+- Quality Short Dagger
+- Riveted Wooden Shield
+- 90 Arrows
+- 50 Fire Arrows
+- [[Marksman Set]]
+
+%% Levels placed below the starting gear to make the social preview better. %%
 
 | Level | 11 |
 | ---- | ---- |
@@ -13,15 +24,9 @@ The Marksman favors light to medium armor and primarily uses Strength and Dexter
 | Intelligence | 9 |
 | Faith | 7 |
 | Arcane | 9 |
-## Starting Gear
-- Composite Bow
-- Quality Short Dagger
-- Riveted Wooden Shield
-- 90 Arrows
-- 50 Fire Arrows
-- [[Marksman Set]]
 
 The Marksman spawns West of [[Fort Haight]].
+
 > [!info]- Map Location
 > ![[Marksman spawn location.png]]
 

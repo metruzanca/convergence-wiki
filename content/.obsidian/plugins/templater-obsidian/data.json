@@ -28,7 +28,7 @@
     },
     {
       "folder": "items/armor",
-      "template": "templates/item.md"
+      "template": "templates/armor.md"
     }
   ],
   "syntax_highlighting": true,
