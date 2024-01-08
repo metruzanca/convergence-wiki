@@ -51,6 +51,12 @@
         "Mod"
       ],
       "key": "P"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
     }
   ]
 }

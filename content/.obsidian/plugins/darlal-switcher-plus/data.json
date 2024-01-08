@@ -58,10 +58,7 @@
   ],
   "showOptionalIndicatorIcons": true,
   "overrideStandardModeBehaviors": true,
-  "enabledRibbonCommands": [
-    "HeadingsList",
-    "SymbolList"
-  ],
+  "enabledRibbonCommands": [],
   "fileExtAllowList": [
     "canvas"
   ],
@@ -166,28 +163,28 @@
         "mode": 4,
         "label": "file cards",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       "canvas-node-text": {
         "id": "canvas-node-text",
         "mode": 4,
         "label": "text cards",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       "canvas-node-link": {
         "id": "canvas-node-link",
         "mode": 4,
         "label": "link cards",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       "canvas-node-group": {
         "id": "canvas-node-group",
         "mode": 4,
         "label": "groups",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       "backlink": {
         "id": "backlink",
