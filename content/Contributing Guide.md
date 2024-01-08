@@ -34,7 +34,6 @@ Command palette: use `cmd/ctrl+shift+p` to bring up the command palette. I've pi
 
 > Unless you know what you're looking for, this menu might not be as useful for you.
 
-
 ## Setup
 
 ### Making local changes
