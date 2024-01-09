@@ -5,7 +5,9 @@ title: Path of the Volcanist
 DESCRIPTION_FROM_PATH_NOTE
 
 ## Starting Gear
-
+- [[Volcanist Armor]]
+- [[Molten Sword]]
+- [[Gelmir Lava Staff]]
 %% Levels placed below the starting gear to make the social preview better. %%
 
 | Level | 11 |
