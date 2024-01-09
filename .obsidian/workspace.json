@@ -138,6 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b726f866df377916",
-  "lastOpenFiles": []
+  "active": "50501cdfd8b40977",
+  "lastOpenFiles": [
+    "content/templates/weapon.md",
+    "content/locations/Caelem Ruins.md"
+  ]
 }
