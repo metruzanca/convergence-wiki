@@ -34,9 +34,6 @@ The Volcanist spawns at a shack, north of [[Caelem Ruins]].
 ## Catalysts and off-hand tool
 
 ## Runes
-
-
-### Runes
 - Faint: In the chests by the shack to the north of [[Caelem Ruins]].
 - Shimmering: In the chest behind the Pumpkin Head boss in the [[Caelem Ruins]] Basement.
 - Glowing: Volcano manor
