@@ -1,0 +1,145 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "2560439a010bbecf",
+        "type": "split",
+        "children": [
+          {
+            "id": "6c5248d353e694a6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8b9e210f71d9c0dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Contributing Guide.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aa3389a4bfc2a9dc",
+        "type": "split",
+        "children": [
+          {
+            "id": "150f8e28bcc97f35",
+            "type": "tabs",
+            "dimension": 81.10632183908046,
+            "children": [
+              {
+                "id": "f00df43ea31b7e31",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5b6fa25a7485a835",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "\"while in combat\"",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "29f6b337577fd82b",
+            "type": "tabs",
+            "dimension": 18.893678160919542,
+            "children": [
+              {
+                "id": "b5f53448c7bba871",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "66ba360a41508aac",
+        "type": "split",
+        "children": [
+          {
+            "id": "59ec755de2263936",
+            "type": "tabs",
+            "dimension": 64.51149425287356,
+            "children": [
+              {
+                "id": "0f7de6cf7c543c7d",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "7a67792497963485",
+            "type": "tabs",
+            "dimension": 35.48850574712644,
+            "children": [
+              {
+                "id": "91d5ff60557a50e8",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Contributing Guide.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templater-obsidian:Templater": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "8b9e210f71d9c0dc"
+    }
+  },
+  "active": "Default"
+}
