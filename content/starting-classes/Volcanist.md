@@ -1,10 +1,39 @@
-## Path of the
+---
+title: Path of the Volcanist
+---
 
-### Armor
+DESCRIPTION_FROM_PATH_NOTE
 
-### Weapons
+## Starting Gear
 
-### Off-Hand tool
+%% Levels placed below the starting gear to make the social preview better. %%
+
+| Level |  |
+| ---- | ---- |
+| Vigor |  |
+| Mind |  |
+| Endurance |  |
+| Strength |  |
+| Dexterity |  |
+| Intelligence |  |
+| Faith |  |
+| Arcane |  |
+
+The Volcanist spawns at a shack, north of Caelem Ruins.
+
+> [!info]- Map Location
+> EMBEDED_IMAGE
+
+## Armor
+
+## Weapons
+
+%% Some classes don't have these %%
+
+## Catalysts and off-hand tool
+
+## Runes
+
 
 ### Runes
 - faint: just outside Caelem ruins
