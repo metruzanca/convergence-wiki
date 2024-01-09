@@ -16,8 +16,13 @@ title:
 | Holy |  |
 | Critical | 120 |
 
-## Guarded
+## Guarded Damage Negation
 
-|  | |
-| --- | --- |
-|  |  |
+| Type | Defense |
+| ---- | ---- |
+| Physical |  |
+| Magic |  |
+| Fire |  |
+| Lighting |  |
+| Holy |  |
+| Guard Boost |  |
