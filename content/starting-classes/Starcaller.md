@@ -41,4 +41,7 @@ The CLASS_NAME spawns LOCATION.
 - glowing: Royal grave evergoal
 - Tier 4: Boss drop from [[War-Dead Catacombs]]
 	-
-- radiant: yelough anix tunnel
+- Radiant: Dropped by [[Astel the Natural Born]] Boss in the [[Yelough Anix Tunnel]].
+	- [[Gravity Beam]]
+	- [[Stellar Bombardment]]
+	- [[Astral Alignment]]
