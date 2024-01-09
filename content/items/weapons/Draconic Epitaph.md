@@ -4,4 +4,4 @@ title:
 
 ## Acquisition
 - Starting weapon for the [[Dragon Cultist]] class.
-- Altus Plateau near Rampartside Path.
+- Altus Plateau near Rampartside Path in a caravan.
