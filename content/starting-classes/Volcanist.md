@@ -19,7 +19,7 @@ DESCRIPTION_FROM_PATH_NOTE
 | Faith |  |
 | Arcane |  |
 
-The Volcanist spawns at a shack, north of Caelem Ruins.
+The Volcanist spawns at a shack, north of [[Caelem Ruins]].
 
 > [!info]- Map Location
 > EMBEDED_IMAGE
@@ -27,6 +27,7 @@ The Volcanist spawns at a shack, north of Caelem Ruins.
 ## Armor
 
 ## Weapons
+
 
 %% Some classes don't have these %%
 

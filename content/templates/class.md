@@ -1,12 +1,13 @@
 ---
 title: Path of the CLASS_NAME
 ---
+%% Two good examples are [[Dreadnought]] & [[Marksman]] %%
 
 DESCRIPTION_FROM_PATH_NOTE
 
 ## Starting Gear
 
-%% Levels placed below the starting gear to make the social preview better. %%
+ Levels placed below the starting gear to make the social preview better. 
 
 | Level |  |
 | ---- | ---- |
@@ -28,7 +29,7 @@ The CLASS_NAME spawns LOCATION.
 
 ## Weapons
 
-%% Some classes don't have these %%
+ Some classes don't have these 
 
 ## Catalysts and off-hand tool
 

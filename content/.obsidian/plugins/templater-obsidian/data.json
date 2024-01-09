@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "items/weapons",
-      "template": "templates/item.md"
+      "template": "templates/weapon.md"
     },
     {
       "folder": "patch-notes",
