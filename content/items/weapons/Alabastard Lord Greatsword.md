@@ -1,5 +1,7 @@
 ---
-title:
+title: 
+tags:
+  - greatsword
 ---
 
 ## Acquisition
