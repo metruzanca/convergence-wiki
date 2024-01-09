@@ -11,4 +11,4 @@ title:
 
 ## Acquisition
 - Starting gear for the [[Starcaller]] class.
-- Can be purchassed from the [[Liurnia of the lakes Merchant]].
+- Can be purchased from the [[Liurnia of the lakes Merchant]].
