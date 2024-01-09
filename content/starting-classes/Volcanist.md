@@ -2,7 +2,7 @@
 title: Path of the Volcanist
 ---
 
-DESCRIPTION_FROM_PATH_NOTE
+The Volcanist primarily uses Intelligence and Faith with Fire damage.
 
 ## Starting Gear
 - [[Volcanist Armor]]
