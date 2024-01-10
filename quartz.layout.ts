@@ -29,8 +29,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
-    Component.Map({ favoriteNumber: 0 }),
+    // Component.Graph(),
+    // Component.Map({ favoriteNumber: 0 }),
     Component.RecentNotes({ title: "Recently Added Pages" }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
