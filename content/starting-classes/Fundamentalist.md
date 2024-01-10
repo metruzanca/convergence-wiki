@@ -55,7 +55,7 @@ The CLASS_NAME spawns LOCATION.
 	- Law of Regression
 	- Blessing of Protection
 - glowing: stormveil castle where the godskin seal was
-- shining: Leyndell
+- shining: [[Erdtree Sanctuary Grace]]
 - radiant: cave of the Forlorn
 
 > [!info]- Rune Locations

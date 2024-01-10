@@ -38,7 +38,7 @@ The Dragon Cultist spawns North of Seaside Ruins Grace and West of Dragon-Burnt 
 
 ## Catalysts and off-hand tool
 
-- [[Dragon Cult Seal]]
+- [[Dragon Cult Seal]] - Protected by the crucible knight on the way to the shortcut door
 - [[Dragon Cult Crest]]
 ## Runes
 - Tier 1: south of the burned ruins in Limgrave
@@ -56,7 +56,7 @@ The Dragon Cultist spawns North of Seaside Ruins Grace and West of Dragon-Burnt 
 	- Ancient Lightning Stake
 	- Ancient Lightning Beacon
 	- Electrocution
-- Tier 4: Lord's contender evergoal
+- Tier 4: [[Lord Contender's Evergaol]]
 	- Ancient Lightning Strike
 	- Ancient Lightning Spear
 	- Vyke's Dragonbolt
