@@ -5,7 +5,7 @@ title: Path of the Marksman
 The Marksman favors light to medium armor and primarily uses Strength and Dexterity.
 
 ## Starting Gear
-- Composite Bow
+- [[Composite Bow]]
 - Quality Short Dagger
 - Riveted Wooden Shield
 - 90 Arrows
@@ -40,8 +40,11 @@ The Marksman spawns West of [[Fort Haight]].
 - Gargoyle's Black Blades - Black Blade Kindred in Forbidden Lands
 - Osian's Greatsword - Northeast of Gatefront in Limgrave
 - Reaver's Odachi - Fort Faroth
-- Blade of Valor - Stormveil
+- [[Blade of Valor]] - Stormveil
 - Palm-Ax Twinblades - Auriza Side Tomb
-- Composite Bow - Tower of Return
+- [[Composite Bow]] - Tower of Return
 - Pulley Bow - West of First Mt. Gelmir Campsite
 - Greatbow - Highway Lookout Tower in Altus
+
+## Tips
+- [[Weeping Peninsula Merchant]] sells [[Bloodrose]] for 500 runes which is useful for making bleed arrows paired with Thin Beast Bones which you can easily farm from the 3 herds up north [[Weeping Peninsula beast herds.png]].
